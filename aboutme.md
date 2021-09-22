@@ -6,7 +6,7 @@ subtitle: Network Engineer, Cloud Enthusiast, Learner
 
 My name is Michael Kutka, and I currently work as the Manager of Network Services for a national IT Staffing Company in the Atlanta metropolitan area. I maintain a Network and VoIP infrastructure full of various Cisco devices as well as Windows and Linux-based servers and applications.
 
-With a Bachelors of IT degrees in the Networking and Security disciplines, some certifications, and a wealth of hands-on experience, i've developed a knowledge base through constant learning and training. I'm constantly striving to learn more in this field, and I enjoy being able to use that knowledge to help companies benefit from the different technologies available.
+With a Bachelors of IT degree in the Networking and Security disciplines, some certifications, and a wealth of hands-on experience, i've developed a knowledge base through constant learning and training. I'm constantly striving to learn more in this field, and I enjoy being able to use that knowledge to help companies benefit from the different technologies available.
 
 ### Certifications
 
