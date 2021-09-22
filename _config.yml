@@ -15,10 +15,18 @@ author: Michael Kutka
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Resume: "resume"
+  Technology:
+    - Homelab: "homelab"
+    - Automation: "automation"
+    - SDWAN: "sdwan"
+  Hobbies:
+    - Cars: "cars"
+    - Travel: "travel"
+ # Resources:
+ #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+ #   - Learn markdown: "https://www.markdowntutorial.com/"
+ # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
