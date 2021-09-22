@@ -1,10 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Network Engineer, Cloud Enthusiast, Learner
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+
+My name is Michael Kutka, and I currently work as a Manager of Network Services for a national IT Staffing Company in the Atlanta metropolitan area. I maintain a Network and VoIP infrastructure full of various Windows and Linux-based servers and applications, including maintaining an IBM AS/400 ERP platform. 
 
 - I rock a great mustache
 - I'm extremely loyal to my family
