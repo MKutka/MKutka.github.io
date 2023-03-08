@@ -13,3 +13,4 @@ With a Bachelors of IT degree in the Networking and Security disciplines, some c
 - Azure Fundamentals (AZ-900)
 - Azure Certified Network Engineer (AZ-700)
 - Cisco Certified Network Associate (CCNA)
+- Palo Alto Network Certified Network Security Administrator (PCNSA)
