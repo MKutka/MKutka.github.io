@@ -4,7 +4,7 @@ title: Another Long Overdue Update!
 subtitle: More Updates!
 cover-img: /assets/img/2023-03-08-another-overdue-update/Cool-Wallpapers.jpg
 thumbnail-img: /assets/img/2023-03-08-another-overdue-update/untitled.png
-share-img: /assets/img/2023-03-08-another-overdue-update/Cool-Wallpapers.jpg
+share-img: /assets/img/2023-03-08-another-overdue-update/untitled.png
 tags: [Life, Networking]
 ---
 
